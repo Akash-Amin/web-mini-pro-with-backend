@@ -1,0 +1,271 @@
+.aboutus-main
+{
+  
+    background-color: rgb(37, 35, 36);
+    overflow-y: auto;
+    
+    height: 92vh;
+    width: 100%;
+}
+
+.about-first-para
+{
+    font-size: 22px;
+    font-weight: 900;
+}
+
+.aboutus-container
+{
+    
+    /*max-width: 1000px;*/
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(33, 44, 44);
+    border-radius: 10px;
+    width: 80%;
+    padding-left: 10px;
+
+}
+.aboutus-left
+{
+    
+    padding-left: 10px;
+}
+
+.aboutus-img
+{
+    width: 100%;
+    height: 500px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.aboutus-right
+{
+    width: 40%;
+    height: 300px;
+    
+    background-color: rgb(37, 35, 36);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: -8%;
+    margin-right: 20px;
+}
+
+.aboutus-right h1
+{
+    margin: 20px 0;
+}
+
+.aboutus-right p
+{
+    font-weight: 500;
+}
+
+@media only screen and (max-width:700px) {
+
+    .aboutus-container
+    {
+        flex-direction: column;
+        width: 100%;
+        margin: 0 10px;
+        padding-bottom: 10px;
+    }
+    .aboutus-left
+    {
+        width: 100%;
+    }
+    .aboutus-right
+    {
+        width: 80%;
+        margin: 0;
+        margin-top: -100px;
+    
+    }
+    
+}
+
+.line-container
+{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 40px 0;
+    background-color: rgb(37, 35, 36);
+}
+
+.line-container .line-card
+{
+    position: relative;
+    width: 350px;
+    height: 400px;
+    margin: 20px;
+    overflow: hidden;
+    box-shadow: 0 9px 25px rgba(0,0,0,0.9);
+    display: flex;
+    align-items: center;
+    border-radius: 35px;
+}
+
+.line-container .line-card .line-content
+{
+    position: absolute;
+    bottom: -200px;
+    height: 190px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    
+    z-index: 0.9;
+    flex-direction: column;
+    backdrop-filter: blur(15px);
+    box-shadow: 0 -10px 10px rgba(19, 18, 18, 0.9);
+    border-top: 2px solid rgb(41, 39, 39);
+    transition: bottom 0.5s;
+    font-weight: 800;
+}
+
+.line-title
+{
+    
+    color: rgb(13, 14, 13);
+    text-align: center;
+    padding: 5px;
+    font-size: 30px;
+    
+}
+
+.aboutus-img-data
+{
+    padding: 8px;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.line-container .line-card:hover .line-content
+{
+    bottom: 0px;
+}
+
+.line-img8
+{
+    max-width: 100%;
+    height: 400px;
+}
+
+.line-img7
+{
+    max-width: 100%;
+    height: 400px;
+}
+
+.line-img6
+{
+    max-width: 100%;
+    height: 480px;
+}
+
+.line-img5
+{
+    max-width: 101%;
+    height: 409px;
+}
+
+.line-img4
+{
+    max-width: 100%;
+    height: 400px;
+}
+
+
+.line-img3
+{
+    max-width: 100%;
+    height: 399px;
+}
+
+.line-img2
+{
+    max-width: 100%;
+    height: 490px;
+}
+
+.line-img1
+{
+    max-width: 100%;
+    height: 390px;
+}
+
+::-webkit-scrollbar
+{
+    width: 0;
+}/*
+
+#AboutUs-scroll-bar1
+{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 15px;
+    height: 100%;
+    border-radius: 10px;
+    background: magenta;
+    z-index: 1;
+  
+}
+*/
+
+#AboutUs-scroll-bar2
+{
+    
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 13px;
+    height: 100%;
+    background: rgb(85, 75, 75);
+    z-index: 1;
+    background: linear-gradient(to top, rgb(7, 241, 7) ,rgb(9, 9, 236) );
+    animation: animate 5s linear infinite;
+}
+@keyframes animate 
+{
+    0%,100%
+    {
+        filter: hue-rotate(0deg);
+    }
+    50%
+    {
+        filter: hue-rotate(360deg);
+    }
+    
+}
+#AboutUs-scroll-bar2::before
+{
+   content: " ";
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   background: linear-gradient(to top, rgb(185, 6, 240) , rgb(9, 201, 240) );
+   filter: blur(30px);
+}
+
+#AboutUs-scroll-bar2::after
+{
+   content: " ";
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   background: linear-gradient(to top, rgb(238, 110, 6) , rgb(5, 247, 154) );
+   filter: blur(30px);
+}

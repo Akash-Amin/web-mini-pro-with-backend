@@ -1,0 +1,56 @@
+
+
+ {/* *****________HEADDER____________***** */}
+
+	Computer Science
+
+
+
+{/* *****________INFO CARD_____________***** */}
+
+
+<<<<<<<(**1st CARD**)    About Department-->>>>>>>>>>>>>>>>>
+ 
+                Today, most of the real world activities and ?elds, right from calculations to space exploration are being computerized as the operations can be much faster and error free with the computer applications. This has resulted in an increased demand for skilled and competent professionals in the computer engineering sector. To cater to this, the Department of Computer Science & Engineering was established at SMVITM in 2010, offering Bachelor of Engineering course with an intake of 60 students per year. The intake was raised to 120 students from the academic year 2012-13. The Department aims at training the students to be industry-ready by the end of their course through regular curriculum as prescribed by the University and also with supplementary programs, throughout their study.
+ 
+ 
+	The Department of Computer Science & Engineering is one of the much sought after departments at SMVITM. The Department has well quali?ed and motivated faculty members who are highly committed to the overall development of the students.
+ 
+ 
+	Along with the regular curriculum, the Department organizes various guestlectures/invited talks by eminent faculty from reputed institutions/industry experts to keep students up-to-date about the latest technological developments. In addition to this, there are some eminent academicians appointed as Adjunct Faculty with the Department to supplement teaching, mentoring and guiding the students as well as the faculty members and also to promote research culture in the Department.
+ 
+ 
+	The Department has state-of-the-art laboratories equipped with high-end computers and other required peripherals to meet the academic needs of students. The Department has the most sophisticated and state of the art 
+computer labs aimed at giving hands-on training to the students in the most advanced areas in programming and soft ware development. In addition to the existing labs, an internet lab as a central facility is being developed.
+
+
+
+
+
+<<<<<<(**2nd CARD**)   OUR VISION ->>>>>>>>>>>>>>>>>>>
+
+	” To become a centre of excellence, in the ?eld of Computer Science and Engineering education and research, catering the needs of the industry and society “
+
+
+
+
+
+<<<<<<(**3rd CARD**)    OUR MISSION-->>>>>>>>>>>>>>>>>
+
+	To educate the Computer Science Engineering aspirants with basic and advanced technologies, who can make a difference in competitive environments, continuously improve their technological skills, communicate effectively and be faithful to ethical values.
+
+
+
+
+
+
+<<<<<<(**4th CARD**)    Message from HOD  -->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+	Greetings from the Department of Computer science and Engineering! On behalf of faculty members, staffs and students of the department of computer science and engineering, SMVITM, I welcome you all for the creative world of CSE. I personally believe that CSE discipline has been generally accepted as an important source and technique for enhancement in all realms of human life, both now and in the future. In the department, every student is given the chance to participate in their academic activities. This is the department where graduates publish articles in the most reputed international journals, while at the same time, students are encouraged to gain some recognition through extra-curricular or co-curricular activities. 
+ 
+
+	The department is associated with several associations like IEEE, ISTE etc, through that students will get a great platform to exhibit their talents. Students are expected to pursue ambitious assignments and to publish their work in different international journals. All students are taught to pursue an ideology that does not place limitations on their abilities to learn. The submissions of our students to numerous academic forums have demonstrated the earnest efforts of their professors at several stages. The Department puts a great focus on delivering practical education by properly handling the proper lab work to supplement their theoretical understanding. At the department, professors are committed to training students for a more substantial challenge ahead and nurturing them to create a solid base for the next step so that they can even exceed teachers and become more valuable to society. 
+
+
+	
+	
