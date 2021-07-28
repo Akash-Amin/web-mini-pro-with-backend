@@ -1,0 +1,247 @@
+.DetailView-main
+{
+    background-color: rgb(44, 49, 41);
+    justify-content: center;
+    padding: 3%;
+    padding-left: 13%;
+    height: 91vh;
+}
+.DetailView-img
+{
+    min-width: 60%;
+    max-width: 60%;
+    height: 47%;
+    
+    border-radius: 6px;
+    filter: blur(0.1px);
+    box-shadow: 30px 0px 30px rgba(9, 0, 0, 9);
+}
+.DetailView-Edit-Delete
+{
+    background-color: rgb(54, 44, 29);
+    padding: 1%;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+    
+    border-radius: 6px;
+    filter: blur(0.1px);
+    box-shadow: 30px 0px 30px rgba(9, 0, 0, 9);
+    
+    
+}
+.DetailView-heading
+{
+    color: white;
+    padding-bottom: 1%;
+    margin-top: -2%;
+    filter: blur(0.1px);
+
+}
+.DetailView-Content
+{
+    background-color: rgb(61, 49, 49);
+    min-width: 90%;
+    max-width: 90%;
+    height: 30vh;
+    text-align: center;
+    margin-top: 2%;
+    border-radius: 6px;
+    filter: blur(0.1px);
+    box-shadow: 30px 0px 30px rgba(9, 0, 0, 9);
+
+}
+
+/* =================updteview=================*/
+
+.UpdateView-main
+{
+    background-color: rgb(61, 51, 51);
+    height: 91vh;
+    padding-left: 10%;
+    width: 100%;
+}
+.UpdateView-img
+{
+    min-width: 60%;
+    max-width: 60%;
+    height: 40vh;
+    margin-bottom: 2%;
+    
+    border-radius: 6px;
+    filter: blur(0.1px);
+    box-shadow: 30px 0px 30px rgba(9, 0, 0, 9);
+
+}
+.UpdateView-details
+{
+    background-color: rgb(19, 18, 16);
+    min-width: 90%;
+    max-width: 90%;
+    height: 40%;
+    text-align: start;
+    padding: 3%;
+    
+    border-radius: 6px;
+    filter: blur(0.1px);
+    box-shadow: 30px 0px 30px rgba(9, 0, 0, 9);
+
+}
+.UpdateView-Button
+{
+    background-color: rgb(84, 107, 60);
+    text-align: end;
+    padding-right: 5%;
+    width: 130px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    
+    border-radius: 6px;
+    filter: blur(0.1px);
+    box-shadow: 30px 0px 30px rgba(9, 0, 0, 9);
+    
+}
+.UpdateView-title
+{
+    background-color: rgb(39, 37, 35);
+    width: 100%;
+    height: 5vh ;
+    padding-left: 5px;
+    font-size: 20px;
+    font-weight: 400;
+    
+    border-radius: 6px;
+    filter: blur(0.1px);
+    box-shadow: 30px 0px 30px rgba(9, 0, 0, 9);
+}
+.UpdateView-title-main
+{
+    width: 100%;
+}
+.UpdateView-description
+{
+    
+    background-color: rgb(39, 37, 35);
+    width: 100%;
+    height: 11vh ;
+    font-size: 20px;
+    padding: 10px;
+    
+    border-radius: 6px;
+    filter: blur(0.1px);
+    box-shadow: 30px 0px 30px rgba(9, 0, 0, 9);
+    
+}
+.UpdateView-Button:hover
+{
+    background: rgb(17, 167, 42);
+}
+
+/*=============CreateView.jsx===============*/
+
+.CreateView-img
+{
+    width: 65%;
+    min-height: 40vh;
+    max-height: 40vh;
+    border: 2px solid black;
+    margin-bottom: 15px;
+    border-radius: 6px;
+  filter: blur(0.1px);
+  box-shadow: 30px 0px 30px rgba(9, 0, 0, 9);
+   
+}
+.CreateView-main-details
+{
+    width: 100%;
+    background-color: rgb(205, 50, 153);
+    height: 30vh;
+    padding: 20px;
+    padding: 20px;
+}
+.CreateView-input-file
+{ 
+    font-size: 18px;
+    font-weight: 600;
+    padding: 10px;
+    border-radius: 6px;
+    filter: blur(0.1px);
+    box-shadow: 30px 0px 30px rgba(9, 0, 0, 9);
+    background-color: rgb(67, 67, 68);
+     
+    width: 40%;
+}
+.CreateView-main-details
+{
+    display:block;
+    background-color: rgb(31, 22, 31);
+    height: 40vh;
+    border-radius: 6px;
+    filter: blur(0.1px);
+    box-shadow: 30px 0px 30px rgba(9, 0, 0, 9);
+     
+}
+.CreateView-input-text
+{
+    
+    background-color: rgb(67, 67, 68);
+    padding: 10px;
+    width: 100%;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-top: 6px;
+    border-radius: 6px;
+    filter: blur(0.1px);
+    box-shadow: 30px 0px 30px rgba(9, 0, 0, 9);
+    
+     
+}
+.CreateView-input-description
+{
+    
+    
+    background-color: rgb(67, 67, 68);
+    padding: 10px;
+    width: 100%;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    height: 35%;
+    border-radius: 6px;
+    filter: blur(0.1px);
+    box-shadow: 30px 0px 30px rgba(9, 0, 0, 9);
+     
+}
+.CreateView-heading
+{
+    padding: 10px;
+}
+.CreateView-main
+{
+    padding-left: 15%;
+    padding-right: 15%;
+    background-color: rgb(68, 70, 68);
+    height: 100vh;
+}
+.CreateView-input-submit-btn
+{
+    
+    background-color: rgb(3, 26, 27);
+    border-radius: 6px;
+    filter: blur(0.1px);
+    box-shadow: 30px 0px 30px rgba(9, 0, 0, 9);
+    padding: 10px;
+    margin-left: -50%;
+}
+
+@media (max-width:948px)
+{
+    
+.CreateView-input-file
+{
+    width: 100%;
+}
+}
